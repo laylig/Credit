@@ -1,6 +1,6 @@
 
 #just to test
-x = 3
+x = 2
 
 import os 
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
